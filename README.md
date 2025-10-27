@@ -84,10 +84,10 @@ I believe great design lives at the intersection of **functionality** and **aest
 
 <p align="center">
   <a href="https://github.com/Arafat-XD-404"><img src="https://skillicons.dev/icons?i=github" width="45px"/></a>
-  <!-- <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" width="45px"/></a> -->
-  <!-- <a href="https://twitter.com/YOUR-TWITTER"><img src="https://skillicons.dev/icons?i=twitter" width="45px"/></a> -->
-  <!-- <a href="mailto:YOUR-EMAIL@example.com"><img src="https://skillicons.dev/icons?i=gmail" width="45px"/></a> -->
-  <!-- <a href="https://discord.gg/YOUR-DISCORD"><img src="https://skillicons.dev/icons?i=discord" width="45px"/></a> -->
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" width="45px"/></a> -->
+  <a href="https://twitter.com/YOUR-TWITTER"><img src="https://skillicons.dev/icons?i=twitter" width="45px"/></a>
+  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://skillicons.dev/icons?i=gmail" width="45px"/></a>
+  <a href="https://discord.gg/YOUR-DISCORD"><img src="https://skillicons.dev/icons?i=discord" width="45px"/></a>
 </p>
 
 ---
