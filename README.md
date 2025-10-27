@@ -1,75 +1,97 @@
-<!-- 💫 Hi there! I'm Arafat 👋 -->
-<h1 align="center">Hey there, I'm <a href="https://github.com/Arafat-XD-404">Arafat</a> 👋</h1>
-<h3 align="center">🚀 Passionate Developer | Tech Enthusiast | Open Source Learner</h3>
+<!-- 🧠 ARAFAT - Advanced GitHub Profile README -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=00FFFF&center=true&vCenter=true&width=800&height=60&lines=Hey+There,+I'm+Arafat!+👋;Full-Stack+Developer+💻;Open-Source+Contributor+🌍;Tech+Enthusiast+🚀" alt="Typing SVG">
+</h1>
 
 <p align="center">
-  <img src="https://github.com/Arafat-XD-404/Arafat-XD-404/blob/main/assets/cover.gif" alt="cover" width="100%" />
+  <a href="https://github.com/Arafat-XD-404">
+    <img src="https://img.shields.io/badge/Code%20with%20Passion-%2300FFFF.svg?&style=for-the-badge&logo=github&logoColor=black" />
+  </a>
+  <a href="https://github.com/Arafat-XD-404?tab=followers">
+    <img src="https://img.shields.io/github/followers/Arafat-XD-404?style=for-the-badge&color=00FFFF" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Arafat-XD-404&label=Views&color=00FFFF&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
 
-### 🌟 About Me
+### 🧑‍💻 **About Me**
 
-💻 I’m a developer passionate about building creative solutions and learning new technologies.  
-⚙️ I love working with open-source projects and contributing whenever possible.  
-📚 Always exploring modern frameworks, clean UI, and automation tools.  
-🎯 Currently improving my **Full-Stack & DevOps** skills.  
-💬 Ask me about **JavaScript, Python, Web Dev, and APIs**.  
+> _A creative developer who believes in solving real-world problems through clean, efficient, and modern code._
+
+💠 I’m deeply into **Web Development, Open Source, and Automation**  
+🧩 Currently learning **Next.js, Docker, and CI/CD**  
+⚙️ Always exploring new frameworks & cloud technologies  
+📫 Reach me anytime: **[your-email@example.com]**  
+🌐 Portfolio: *Coming soon...*  
 
 ---
 
-### 🛠️ Languages & Tools
+### ⚡ **Tech Stack & Tools**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,nodejs,express,mongodb,git,github,linux,vscode,docker,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,nextjs,nodejs,express,mongodb,mysql,postgres,git,github,linux,docker,tailwind,bootstrap,vscode,figma" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 🎨 **Design Philosophy**
+
+> “Simplicity is the soul of efficiency.”  
+I believe great design lives at the intersection of **functionality** and **aesthetic clarity**.
+
+---
+
+### 🚀 **GitHub Stats & Activity**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arafat-XD-404&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arafat-XD-404&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arafat-XD-404&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arafat-XD-404&theme=react&hide_border=true&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" width="49%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arafat-XD-404&theme=tokyo-night&hide_border=true&area=true" width="100%">
-</p>
-
----
-
-### 🧠 Current Focus
-
-- 🔭 Working on personal & open-source projects  
-- 🌱 Learning **Next.js**, **Docker**, and **CI/CD pipelines**  
-- 💡 Experimenting with **AI integrations** and **APIs**
-
----
-
-### 🏆 Achievements
-
-- 💥 Consistent GitHub contributor  
-- 🌍 Built multiple web apps & automation scripts  
-- 🧩 Constantly learning and building side projects  
-
----
-
-### 📬 Connect with Me
-
-<p align="center">
-  <a href="https://github.com/Arafat-XD-404"><img src="https://skillicons.dev/icons?i=github" width="40px" /></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" width="40px" /></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://skillicons.dev/icons?i=gmail" width="40px" /></a>
-  <a href="https://twitter.com/YOUR-TWITTER"><img src="https://skillicons.dev/icons?i=twitter" width="40px" /></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arafat-XD-404&theme=react-dark&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&hide_border=true&area=true" width="100%">
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arafat-XD-404&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
-</p>
+### 🧠 **Current Focus**
+
+- 🧰 Building **automation tools** & **APIs**
+- 🌍 Contributing to **open-source projects**
+- 🧩 Designing modern **UI/UX components**
+- 🧱 Learning **Next.js 15** + **TypeScript mastery**
+
+---
+
+### 🏆 **Achievements & Highlights**
+
+- 💡 Built & deployed several full-stack web apps  
+- 🔥 Maintained 30+ consecutive days of contributions  
+- ⚡ Published open-source scripts used by other devs  
+- 🌐 Growing community presence through GitHub projects  
+
+---
+
+### 🎯 **Tech Motto**
+
+> 💬 _"Code is not just what you write — it's what you create for others to build upon."_  
+> ✨ Let’s make something amazing together!
+
+---
+
+### 🌐 **Connect with Me**
 
 <p align="center">
-  <b>⭐️ "Code. Learn. Improve. Repeat." ⭐️</b>
+  <a href="https://github.com/Arafat-XD-404"><img src="https://skillicons.dev/icons?i=github" width="45px"/></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" width="45px"/></a>
+  <a href="https://twitter.com/YOUR-TWITTER"><img src="https://skillicons.dev/icons?i=twitter" width="45px"/></a>
+  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://skillicons.dev/icons?i=gmail" width="45px"/></a>
+  <a href="https://discord.gg/YOUR-DISCORD"><img src="https://skillicons.dev/icons?i=discord" width="45px"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00FFFF&section=footer" width="100%"/>
 </p>
