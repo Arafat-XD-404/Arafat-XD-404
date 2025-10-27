@@ -13,35 +13,6 @@
   <img src="https://komarev.com/ghpvc/?username=Arafat-XD-404&label=Views&color=00FFFF&style=for-the-badge" alt="Profile views" />
 </p>
 
----
-
-<p align="center">
-  <a href="https://github.com/Arafat-XD-404">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Open+Source+Contributor;Tech+Enthusiast;Lifelong+Learner;Building+Cool+Projects!">
-  </a>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Arafat-XD-404&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-  </a>
-</p>
-
----
-
-## 🥇 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-achievements.vercel.app/api/badge?username=Arafat-XD-404&achievement=developer" alt="GitHub Developer Achievement"/>
-  <img src="https://github-profile-achievements.vercel.app/api/badge?username=Arafat-XD-404&achievement=maintainer" alt="GitHub Maintainer Achievement"/>
-  <img src="https://github-profile-achievements.vercel.app/api/badge?username=Arafat-XD-404&achievement=reviewer" alt="GitHub Reviewer Achievement"/>
-  <img src="https://github-profile-achievements.vercel.app/api/badge?username=Arafat-XD-404&achievement=influencer" alt="GitHub Influencer Achievement"/>
-</p>
-
 ### 🧑‍💻 **About Me**
 
 > _A creative developer who believes in solving real-world problems through clean, efficient, and modern code._
