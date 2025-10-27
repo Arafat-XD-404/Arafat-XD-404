@@ -22,7 +22,7 @@
 💠 I’m deeply into **Web Development, Open Source, and Automation**  
 🧩 Currently learning **Next.js, Docker, and CI/CD**  
 ⚙️ Always exploring new frameworks & cloud technologies  
-📫 Reach me anytime: **[your-email@example.com]**  
+📫 Reach me anytime: **[@example.com]**  
 🌐 Portfolio: *Coming soon...*  
 
 ---
@@ -60,7 +60,7 @@ I believe great design lives at the intersection of **functionality** and **aest
 - 🧰 Building **automation tools** & **APIs**
 - 🌍 Contributing to **open-source projects**
 - 🧩 Designing modern **UI/UX components**
-- 🧱 Learning **Next.js 15** + **TypeScript mastery**
+- 🧱 Learning **Python** + **C/C++**
 
 ---
 
@@ -84,10 +84,10 @@ I believe great design lives at the intersection of **functionality** and **aest
 
 <p align="center">
   <a href="https://github.com/Arafat-XD-404"><img src="https://skillicons.dev/icons?i=github" width="45px"/></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" width="45px"/></a>
-  <a href="https://twitter.com/YOUR-TWITTER"><img src="https://skillicons.dev/icons?i=twitter" width="45px"/></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://skillicons.dev/icons?i=gmail" width="45px"/></a>
-  <a href="https://discord.gg/YOUR-DISCORD"><img src="https://skillicons.dev/icons?i=discord" width="45px"/></a>
+  <!-- <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" width="45px"/></a> -->
+  <!-- <a href="https://twitter.com/YOUR-TWITTER"><img src="https://skillicons.dev/icons?i=twitter" width="45px"/></a> -->
+  <!-- <a href="mailto:YOUR-EMAIL@example.com"><img src="https://skillicons.dev/icons?i=gmail" width="45px"/></a> -->
+  <!-- <a href="https://discord.gg/YOUR-DISCORD"><img src="https://skillicons.dev/icons?i=discord" width="45px"/></a> -->
 </p>
 
 ---
